@@ -23,7 +23,7 @@
 
 ## 📸 Screenshots
 
-![Dashboard](https://images.pexels.com/photos/3601094/pexels-photo-3601094.jpeg)
+(![C:\Users\sunka\OneDrive\图片\Screenshots\Screenshot (40).png](https://github.com/user-attachments/assets/8aef4445-4270-4be6-8237-dccb85987ff7))
 *Rythu Mitra Home Dashboard*
 
 ---
