@@ -23,7 +23,8 @@
 
 ## 📸 Screenshots
 
-(![C:\Users\sunka\OneDrive\图片\Screenshots\Screenshot (40).png](https://github.com/user-attachments/assets/8aef4445-4270-4be6-8237-dccb85987ff7))
+<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/55be141f-e603-42e2-a058-dc050a034ea7" />
+
 *Rythu Mitra Home Dashboard*
 
 ---
